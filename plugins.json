@@ -730,6 +730,30 @@
           "branch": ""
         }
       ]
+    },
+    {
+      "name": "karin-plugin-botweb",
+      "type": "npm",
+      "description": "可以使用已加载进Karin的Bot直接交互群聊",
+      "home": "https://github.com/yusheng929/karin-plugin-botweb",
+      "license": {
+        "name": "MIT",
+        "url": "https://github.com/yusheng929/karin-plugin-botweb/blob/main/LICENSE"
+      },
+      "time": "2026-07-30 15:46:00",
+      "author": [
+        {
+          "name": "yusheng929",
+          "home": "https://github.com/yusheng929"
+        }
+      ],
+      "repo": [
+        {
+          "type": "npm",
+          "url": "https://www.npmjs.com/package/karin-plugin-botweb",
+          "branch": ""
+        }
+      ]
     }
   ]
 }
