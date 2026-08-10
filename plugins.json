@@ -754,6 +754,30 @@
           "branch": ""
         }
       ]
+    },
+    {
+      "name": "@karinjs/adapter-qqbot",
+      "type": "npm",
+      "description": "基于Karin的QQBot适配器",
+      "home": "https://github.com/KarinJS/karin-plugin-adapter-qqbot",
+      "license": {
+        "name": "MIT",
+        "url": "https://github.com/KarinJS/karin-plugin-adapter-qqbot/blob/main/LICENSE"
+      },
+      "time": "2026-08-10 14:17:00",
+      "author": [
+        {
+          "name": "KarinJS",
+          "home": "https://github.com/KarinJS"
+        }
+      ],
+      "repo": [
+        {
+          "type": "github",
+          "url": "https://github.com/KarinJS/karin-plugin-adapter-qqbot",
+          "branch": "main"
+        }
+      ]
     }
   ]
 }
