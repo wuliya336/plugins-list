@@ -778,6 +778,35 @@
           "branch": "main"
         }
       ]
+    },
+    {
+      "name": "karin-plugin-qbot",
+      "type": "npm",
+      "description": "基于Karin编写的开放平台管理端插件",
+      "home": "https://github.com/dmmdekkd/karin-plugin-qbot",
+      "license": {
+        "name": "MIT",
+        "url": "https://github.com/dmmdekkd/karin-plugin-qbot/blob/main/LICENSE"
+      },
+      "time": "2026-08-31 00:00:00",
+      "author": [
+        {
+          "name": "dmmdekkd",
+          "home": "https://github.com/dmmdekkd"
+        }
+      ],
+      "repo": [
+        {
+          "type": "github",
+          "url": "https://github.com/dmmdekkd/karin-plugin-qbot",
+          "branch": "main"
+        },
+        {
+          "type": "npm",
+          "url": "https://www.npmjs.com/package/karin-plugin-qbot",
+          "branch": ""
+        }
+      ]
     }
   ]
 }
